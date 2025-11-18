@@ -1,4 +1,4 @@
-# EXPT.NO.9-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
+# EXPT.NO.8-IMPLEMENTATION-OF-GO-BACK-N-PROTOCOL-SELECTIVE-REPEAT
 # AIM:
 To write and execute a program for Go-Back-N protocol-Selective Repeat.
 # EQUIPMENTS REQUIRED:
@@ -13,7 +13,7 @@ Personal Computer Turbo C Compiler
 14.	Choose the file and verify the go back protocol operation.
 
 # PROGRAM:
-
+```
 #include<stdio.h> void main()
 {
 
@@ -47,7 +47,10 @@ printf("\n Sending frame %d \n FRAME ACKNOWLEDGED.	\n",j);
 
 printf("\n\nALL FRAME RECIEVED SUCCESSFULLY\n\n");
 }
-OUTPUT:
+```
+# OUTPUT:
+<img width="979" height="552" alt="image" src="https://github.com/user-attachments/assets/059c709f-d0e3-441d-936b-8fbe6db49ed3" />
+
 
  
 
